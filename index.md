@@ -1,7 +1,8 @@
 ---
-layout: splash
 permalink: /
-hidden: true
+layout: home
+author_profile: true
+---
 # Header
 header:
   overlay_image: /assets/img/fiji.jpg
@@ -17,6 +18,3 @@ feature_row1:
     alt: "Picture of Ali."
     title: "About"
     excerpt: 'I will write this later.'
----
-
-{% include feature_row id="feature_row1" type="left" %}
