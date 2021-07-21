@@ -125,16 +125,15 @@
     width: auto;
     height: auto;
   }
-  .image-cropper {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-  }
-  
+
   img {
     max-width: 110px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+
 
     @include breakpoint($large) {
       padding: 5px;
