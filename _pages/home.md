@@ -4,9 +4,9 @@ permalink: /
 hidden: true
 # Header
 header:
-  overlay_image: /assets/images/fiji.jpg
+  overlay_image: /assets/img/fiji.jpg
   image_description: "The South Coast of Viti Levu"
-  caption: "Me"
+  caption: "Photo credit: Me"
   actions:
     - label: "More Info"
       url: /research/
