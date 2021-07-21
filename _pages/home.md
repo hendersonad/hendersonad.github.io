@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#5e716c"
   #overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: Research Fellow in epidemiology using electronic health records
 feature_row1:
