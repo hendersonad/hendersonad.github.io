@@ -100,6 +100,11 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+.social-icons {
+  .fa-youtube {
+    color: #ff0000;
+  }
+}
 
 # Site Author
 author:
@@ -113,7 +118,7 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Bad day? Watch this"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-youtube"
       url: "https://youtu.be/vAoADCSpD-8"
     - label: "Or this"
       icon: "fas fa-fw fa-youtube"  
