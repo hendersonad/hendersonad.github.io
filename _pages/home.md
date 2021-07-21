@@ -12,7 +12,8 @@ header:
       url: /research/
 excerpt: Research Fellow in epidemiology using electronic health records
 feature_row1:
-  - image_path: assets/img/science workshop.jpg
+  #- image_path: /assets/img/science workshop.jpg
+  - <img src="/assets/img/science workshop.jpg" alt="Picture of Ali" width="200"/>
     alt: "Picture of Ali."
     title: "About"
     excerpt: 'I will write this later.'
