@@ -1,7 +1,12 @@
+
 # main links
 main:
   - title: "Hi, I'm Ali"
     url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
