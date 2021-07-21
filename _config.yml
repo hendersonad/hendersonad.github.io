@@ -125,15 +125,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LSHTM website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hendersonad"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hendersonad"
+
 
 # Reading Files
 include:
