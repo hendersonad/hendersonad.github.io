@@ -2,9 +2,14 @@
 layout: splash
 permalink: /
 hidden: true
+# Header
 header:
-  overlay_color: "#5e716c"
-  #overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/fiji.jpg
+  image_description: "The South Coast of Viti Levu"
+  caption: "Me"
+  actions:
+    - label: "More Info"
+      url: /research/
 excerpt: Research Fellow in epidemiology using electronic health records
 feature_row1:
   - image_path: assets/img/science workshop.jpg
