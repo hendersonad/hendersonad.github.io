@@ -112,16 +112,12 @@ author:
     - #label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "LSHTM website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hendersonad"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hendersonad"
-
+    - label: "Bad day? Watch this"
+      icon: "fas fa-fw fa-youtube"
+      url: "https://youtu.be/vAoADCSpD-8"
+    - label: "Or this"
+      icon: "fas fa-fw fa-youtube"  
+      url: "https://youtu.be/wL-VMOGAhzE?t=1494"
 # Site Footer
 footer:
   links:
