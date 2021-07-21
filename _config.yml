@@ -100,12 +100,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-.social-icons {
-  .fa-youtube {
-    color: #ff0000;
-  }
-}
-
 # Site Author
 author:
   name             : "Alasdair Henderson"
