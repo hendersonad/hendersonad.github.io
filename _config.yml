@@ -19,14 +19,14 @@ locale                   : "en-GB"
 title                    : "Alasdair Henderson"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Site name"
+name                     : "Aladair Hensderson"
 description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hendersonad/hendersonad.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Alasdair Henderson" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alasdair Henderson"
+  name             : "Aladair Hensderson"
   avatar           : "assets/img/science workshop.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research fellow in epidemiology using electronic health records. Skin conditions • Mental health • EHR • Infectious Disease Dynamics • Involvement & engagement"
   location         : "London, UK"
@@ -112,10 +112,10 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Bad day? Watch this"
-      icon: "fab fa-youtube-square"
+      icon: "fab fa-youtube"
       url: "https://youtu.be/vAoADCSpD-8"
     - label: "Or this"
-      icon: "fas fa-fw fa-youtube"  
+      icon: "fab fa-youtube"  
       url: "https://youtu.be/wL-VMOGAhzE?t=1494"
 # Site Footer
 footer:
