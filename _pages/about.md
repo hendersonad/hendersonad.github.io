@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: ""
-excerpt: "About"
+excerpt: "test"
 toc: false
 ---
 
