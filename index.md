@@ -11,8 +11,6 @@ header:
   actions:
     - label: "About"
       url: /about/
-excerpt: Research Fellow in epidemiology using electronic health records
-
 # - image_path: /assets/img/science workshop.jpg
 ---
     
