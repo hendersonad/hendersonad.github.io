@@ -11,7 +11,7 @@ header:
   actions:
     - label: "About"
       url: /about/
-excerpt: Test
+excerpt: " "
 
 # - image_path: /assets/img/science workshop.jpg
 ---
