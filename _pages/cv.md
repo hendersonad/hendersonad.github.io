@@ -7,7 +7,7 @@ toc: false
 header:
   overlay_image: /assets/img/scotland.jpg
   image_description: "A mountain in Scotland"
-  excerpt: " "
+  tagline: " "
 ---
 
 ## Education and employment experience
