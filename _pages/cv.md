@@ -6,8 +6,8 @@ toc: false
 
 # Header
 header:
-  overlay_image: /assets/img/scotland.jpg
-  image_description: "A mountain in Scotland"
+  overlay_image: /assets/img/fijiarbo.jpg
+  image_description: "Arboviruses in Fiji case data"
   tagline: " "
   show_overlay_excerpt: false
 
