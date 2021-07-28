@@ -11,4 +11,4 @@ I am currently conducting research using electronic healht records from the UK. 
 
 
 ## Mathematical modelling 
-As part of my PhD research I used mathematical models with multiple data sources to better understand the transmission of DENV and ZIKV. Specifically, I analysed serological data to improve understanding of population immune dynamics following arbovirus outbreaks and mathematical models to identify the determinants of arbovirus transmission dynamics in island outbreaks. 
+As part of my [PhD research](https://doi.org/10.17037/PUBS.04660713) I used mathematical models with multiple data sources to better understand the transmission of DENV and ZIKV. Specifically, I analysed serological data to improve understanding of population immune dynamics following arbovirus outbreaks and mathematical models to identify the determinants of arbovirus transmission dynamics in island outbreaks. 
