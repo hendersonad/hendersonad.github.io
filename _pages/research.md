@@ -6,8 +6,11 @@ toc: false
 # Header
 header:
   overlay_image: /assets/img/micacdesign.jpg
+  overlay_filter: linear-gradient(135deg, rgba(135, 206, 235, 0.5), rgba(255, 255, 255, 0.5))
+  show_overlay_excerpt: false
   image_description: "A plot of multimorbidity networks"
   excerpt: " "
+  
 ---
 
 ## Electronic health records
