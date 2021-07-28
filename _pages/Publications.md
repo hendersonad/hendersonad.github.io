@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: ""
+title: "Published work"
 excerpt: "Publications and pre-prints."
 toc: false
 # Header
@@ -27,4 +27,6 @@ header:
 * Indirect effects of the pandemic on UK health [LSHTM website](https://www.lshtm.ac.uk/newsevents/expert-opinion/indirect-effects-pandemic-uk-health)
 * How long does Zika immunity last for? [eLife podcast episode 63](https://elifesciences.org/podcast/episode63#962) 
 
+## Shiny apps
+* COVID-Collateral [shiny app](https://a-henderson91.shinyapps.io/covid_collateral_shiny/)
 
