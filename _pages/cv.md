@@ -3,6 +3,11 @@ permalink: /cv/
 title: ""
 excerpt: "My CV"
 toc: false
+# Header
+header:
+  overlay_image: /assets/img/scotland.jpg
+  image_description: "A mountain in Scotland"
+  excerpt: " "
 ---
 
 ## Education and employment experience

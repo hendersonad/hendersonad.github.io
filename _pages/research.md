@@ -3,6 +3,11 @@ permalink: /research/
 title: ""
 excerpt: "Research interests"
 toc: false
+# Header
+header:
+  overlay_image: /assets/img/micacdesign.jpg
+  image_description: "A plot of multimorbidity networks"
+  excerpt: " "
 ---
 
 ## Electronic health records
