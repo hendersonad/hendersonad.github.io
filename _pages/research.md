@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: ""
+title: "Research interests"
 excerpt: "Research interests"
 toc: false
 # Header

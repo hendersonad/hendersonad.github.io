@@ -1,13 +1,16 @@
 ---
 permalink: /cv/
-title: ""
+title: "CV"
 excerpt: "My CV"
 toc: false
+
 # Header
 header:
   overlay_image: /assets/img/scotland.jpg
   image_description: "A mountain in Scotland"
   tagline: " "
+  show_overlay_excerpt: false
+
 ---
 
 ## Education and employment experience
