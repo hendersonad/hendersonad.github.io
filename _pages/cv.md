@@ -5,7 +5,6 @@ excerpt: "My CV"
 toc: false
 ---
 
-
 ## Education and employment experience
 * 2016-2020 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
 “Mental illness in atopic eczema and psoriasis: how big is the problem, why does it happen and how can we prevent it?” 
@@ -35,6 +34,8 @@ I am interested in applied epidemiological analysis, mathematical modelling usin
 *	Extensive coding and teaching experience in Stata. 
 *	Built systems to compile and validate National Accounts statistics in SAS while at ONS. 
 ### Organisation and leadership
+*    Formed and led a patient involvement and engagement group of ~20 patients with eczema, asthma or psoriasis to develop and improve our research. 
+*    Led a serological survey in Fiji over 10 weeks in 2017. Successfully recruited and trained local staff and managed my own budget as we collected 320 samples. 
 *	Led a serological survey in Fiji over 10 weeks in 2017. Successfully recruited and trained local staff and managed my own budget as we collected 320 samples. 
 *	Established the early career researcher working group within the Centre for Mathematical Modelling of Infectious Diseases at LSHTM. The group has regular meetings to discuss work as well as a journal club. 
 *	Member of the organisation committee for IDDconf, a conference for approximately 100 UK based modellers hosted at University of Cumbria, Ambleside. 
