@@ -6,6 +6,7 @@ toc: false
 # Header
 header:
   overlay_image: /assets/img/collateraldesign.jpg
+  linear-gradient(rgba(155, 0, 155, 0.5), rgba(0, 200, 215, 0.5))
   image_description: "A plot of GP consultations over COVID-19 lockdown"
 ---
 
