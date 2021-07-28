@@ -6,8 +6,7 @@ toc: false
 # Header
 header:
   overlay_image: /assets/img/collateraldesign.jpg
-  image_description: "A plot of GP consultations over COVID-19 locakdown"
-  excerpt: " "
+  image_description: "A plot of GP consultations over COVID-19 lockdown"
 ---
 
 ## Publications
