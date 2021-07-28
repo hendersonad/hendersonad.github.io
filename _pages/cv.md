@@ -7,6 +7,7 @@ toc: false
 # Header
 header:
   overlay_image: /assets/img/fijiarbo.jpg
+  overlay_filter: linear-gradient(135deg, rgba(135, 206, 235, 0.5), rgba(255, 255, 255, 0.5))
   image_description: "Arboviruses in Fiji case data"
   tagline: " "
   show_overlay_excerpt: false
