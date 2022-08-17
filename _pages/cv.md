@@ -15,7 +15,7 @@ header:
 ---
 
 ## Education and employment experience
-* 2016-2020 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
+* 2020-present 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
 “Mental illness in atopic eczema and psoriasis: how big is the problem, why does it happen and how can we prevent it?” 
 * 2016-2020 	_PhD - London School of Hygiene & Tropical Medicine_
 “Modelling arbovirus transmission dynamics in Fiji and the wider Pacific” 
