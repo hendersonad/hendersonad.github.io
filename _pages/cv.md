@@ -35,21 +35,8 @@ BSc Economics
 ## Research Interests
 I am interested in applied epidemiological analysis, mathematical modelling using multiple data sources to gain insight into disease burden and the analysis of large datasets.
 
-### Programming languages
-*	Extensive coding experience in R and Stata including collaborative coding using GitHub and teaching.  
-*	Built systems to compile and validate National Accounts statistics in SAS while at ONS. 
-### Organisation and leadership
-*    Formed and led a patient involvement and engagement group of ~20 patients with eczema, asthma or psoriasis to develop and improve our research. 
-*	Led a serological survey in Fiji over 10 weeks in 2017. Successfully recruited and trained local staff and managed my own budget as we collected 320 samples. 
-*	Established the early career researcher working group within the Centre for Mathematical Modelling of Infectious Diseases at LSHTM. 
-*	Member of the organisation committee for IDDconf, a conference for approximately 100 UK based modellers hosted at University of Cumbria, Ambleside. 
-### Teaching experience
-*    Facilitated tutorials for MSc students on four modules: Statistical Methods in Epidemiology, Design and Analysis of Epidemiological Studies, Extended Epidemiology, Statistics for Epidemiology and Population Health. 
-### Public Engagement
-*	Co-created and co-lead a public engagement project “Outbreak control: an introduction to careers in public health”. A two-hour workshop simulating a malaria outbreak with interactive activities introducing GCSE students to possible careers in public health. Hosted by 6 schools and at the Royal Institution. 
-*	Mentored on LSHTM’s “Young Scientist Programme”, which gives school students aged 14-17 experience leading their own research project over a two-week placement. 
-
 ## Funding and awards
+* 2022  Bradford Hill prize.
 * 2018 	LSHTM Public Engagement Small Grants Scheme.
 * 2016 	MRC London Intercollegiate Doctoral Training Partnership Studentships. 
 * 2015	NIHR MSc studentships in Medical Statistics. 
