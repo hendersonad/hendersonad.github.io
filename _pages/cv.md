@@ -36,7 +36,7 @@ BSc Economics
 I am interested in applied epidemiological analysis, mathematical modelling using multiple data sources to gain insight into disease burden and the analysis of large datasets.
 
 ## Funding and awards
-* 2022  Bradford Hill prize.
+* 2022  LSHTM Prize for Medical Statistics (Thesis).
 * 2018 	LSHTM Public Engagement Small Grants Scheme.
 * 2016 	MRC London Intercollegiate Doctoral Training Partnership Studentships. 
 * 2015	NIHR MSc studentships in Medical Statistics. 
