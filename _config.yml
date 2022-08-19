@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Alasdair Hensderson"
-  avatar           : "assets/img/science workshop.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/img/IMG_3356.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research fellow in epidemiology using electronic health records. Skin conditions • Mental health • EHR • Infectious Disease Dynamics • Involvement & engagement"
   location         : "London, UK"
   #email            :
