@@ -32,9 +32,6 @@ BSc Economics
 * 2018	_Insitut Louis Malardé_. Pape’ete, French Polynesia. Working with Dr. Van-Mai Cao-Lormeau (2 weeks)
 * 2017	_Ministry of Health_. Suva, Fiji. Working with Dr Mike Kama. (10 weeks)
 
-## Research Interests
-I am interested in applied epidemiological analysis, mathematical modelling using multiple data sources to gain insight into disease burden and the analysis of large datasets.
-
 ## Funding and awards
 * 2022  LSHTM Prize for Medical Statistics (Thesis).
 * 2018 	LSHTM Public Engagement Small Grants Scheme.
