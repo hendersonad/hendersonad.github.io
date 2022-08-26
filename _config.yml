@@ -116,10 +116,7 @@ author:
     - label: "@hendersonad"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hendersonad"
-    - label: "Bad day? Watch this"
-      icon: "fab fa-youtube"
-      url: "https://youtu.be/wL-VMOGAhzE?t=1494"
-    - label: "Or listen to this"
+    - label: "Bad day? Mayb listen to this"
       icon: "fab fa-spotify"
       url: "https://open.spotify.com/playlist/24TypPrznaQMnZmZAlBG40?si=002a08c8f91845cb"
 # Site Footer
