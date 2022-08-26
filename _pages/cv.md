@@ -35,5 +35,12 @@ BSc Economics
 ## Funding and awards
 * 2022  LSHTM Prize for Medical Statistics (Thesis).
 * 2018 	LSHTM Public Engagement Small Grants Scheme.
-* 2016 	MRC London Intercollegiate Doctoral Training Partnership Studentships. 
-* 2015	NIHR MSc studentships in Medical Statistics. 
+* 2016 	MRC London Intercollegiate Doctoral Training Partnership Studentship (PhD). 
+* 2015	NIHR Studentship (MSc). 
+* 2014	ONS Prize (Best performance in macroeconomics analysis module).
+
+## Conferences
+* 2019	_Epidemics 7_. Charleston, South Carolina, USA. Oral presentation. 
+* 2018	_IDDconf_. Ambleside, UK. Oral presentation
+* 2018	_American Society of Tropical Medicine and Hygiene_. New Orleans, USA. Oral presentation. 
+* 2017	_Epidemics 6_. Barcelona, Spain. Oral presentation. 
