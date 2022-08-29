@@ -12,7 +12,8 @@ header:
   
 ---
 
-## Publications
+## Selected publications
+A full list is available [here](https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair#publications)
 
 ### Postdoc
 * **Henderson AD**; Mansfield KE; Mathur R; Tazare J; Mulick AR; Carreira H; Matthews AA; Bidulka P; Gayle A; Forbes H [Indirect acute effects of the COVID-19 pandemic on physical and mental health in the UK: a population-based study.](https://doi.org/10.1016/S2589-7500(21)00017-0) 2021 _The Lancet Digital health_
