@@ -11,8 +11,7 @@ header:
     - label: "Publications"
       url: /publications/
 excerpt: " "
-
-# - image_path: /assets/img/science workshop.jpg
+ - image_path: /assets/img/headshot.jpg
 ---
     
 Hello, I'm Alasdair and I am a Research Fellow in epidemiology at the London School of Hygiene &amp; Tropical Medicine. My research uses large datasets of electronic health records to investigate mental health outcomes in people with skin conditions such as eczema and psoriasis.
