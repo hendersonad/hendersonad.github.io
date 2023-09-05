@@ -16,6 +16,9 @@ header:
 A full list is available [here](https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair#publications)
 
 ### Postdoc
+*	**Henderson AD**, Adesanya E, Mulick A, Matthewman J, Vu N, Davies F, et al. [Common mental health disorders in adults with inflammatory skin conditions: nationwide population-based matched cohort studies in the UK](https://link.springer.com/epdf/10.1186/s12916-023-02948-x). 2023. _BMC Med_.
+*	Matthewman J, Mansfield KE, Hayes JF, Adesanya EI, Smith CH, Roberts A, Langan, SM, **Henderson AD**. [Anxiety and Depression in People with Eczema or Psoriasis: A Comparison of Associations in UK Biobank and Linked Primary Care Data](https://www.dovepress.com/anxiety-and-depression-in-people-with-eczema-or-psoriasis-a-comparison-peer-reviewed-fulltext-article-CLEP). 2023. _Clin Epidemiol_.
+*	Mulick AR, **Henderson AD**, Prieto-Merino D, Mansfield KE, Matthewman J, Quint JK, et al. [Novel multimorbidity clusters in people with eczema and asthma: a population-based cluster analysis](https://www.nature.com/articles/s41598-022-26357-x). 2022. _Sci Rep_.
 * **Henderson AD**; Mansfield KE; Mathur R; Tazare J; Mulick AR; Carreira H; Matthews AA; Bidulka P; Gayle A; Forbes H [Indirect acute effects of the COVID-19 pandemic on physical and mental health in the UK: a population-based study.](https://doi.org/10.1016/S2589-7500(21)00017-0) 2021 _The Lancet Digital health_
 
 ### PhD
