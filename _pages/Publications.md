@@ -13,7 +13,9 @@ header:
 ---
 
 ## Selected publications
-A full list is available [here](https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair#publications)
+[ORCiD](https://orcid.org/0000-0002-8903-4906)
+
+[Google Scholar](https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en&authuser=1)
 
 ### Postdoc
 *	**Henderson AD**, Adesanya E, Mulick A, Matthewman J, Vu N, Davies F, et al. [Common mental health disorders in adults with inflammatory skin conditions: nationwide population-based matched cohort studies in the UK](https://link.springer.com/epdf/10.1186/s12916-023-02948-x). 2023. _BMC Med_.
