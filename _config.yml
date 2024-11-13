@@ -126,7 +126,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hendersonad"
     - label: "@hendersonad"
-      icon: "fab fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/hendersonad.bsky.social"
 
 # Reading Files
