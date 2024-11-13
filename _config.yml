@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Alasdair Henderson"
   avatar           : "assets/img/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Statistician and epidemiologist. Research fellow at LSHTM."
-  location         : "London, UK"
+  bio              : "Biostatistician in the School of Cardiovascular and Metabolic Health at the University of Glasgow."
+  location         : "Glasgow, Scotland"
   #email            :
   links:
     - #label: "Email"
@@ -119,12 +119,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "LSHTM website"
+    - label: "University of Glasgow website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair"
+      url: "https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alasdairhenderson/#biography"
     - label: "@hendersonad"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hendersonad"
+    - label: "@hendersonad"
+      icon: "fab fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/hendersonad.bsky.social"
 
 # Reading Files
 include:
