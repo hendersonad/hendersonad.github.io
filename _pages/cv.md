@@ -15,7 +15,8 @@ header:
 ---
 
 ## Education and employment experience
-* 2020-2022 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
+* 2023-> 	_Lead Biostatistician - _School of Cardiovascular and Metabolic Health at the University of Glasgow_
+* 2020-2023 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
 ”Health-related Quality of Life and Long COVID"
 * 2020-2022 	_Research Fellow - London School of Hygiene & Tropical Medicine (non-clinical)_
 “Mental illness in atopic eczema and psoriasis: how big is the problem, why does it happen and how can we prevent it?” 
