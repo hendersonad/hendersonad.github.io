@@ -10,7 +10,6 @@ header:
   actions:
     - label: "Publications"
       url: /publications/
-excerpt: " "
 
 ---
 
