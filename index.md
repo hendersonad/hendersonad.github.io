@@ -5,7 +5,7 @@ author_profile: true
 sidebar: false
 # Header
 header:
-  overlay_image: /assets/img/IMG_8402.jpg
+  overlay_image: /assets/img/IMG_8402.jpeg
   image_description: "Sunset at Colintraive"
   actions:
     - label: "Publications"
