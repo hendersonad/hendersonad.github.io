@@ -5,8 +5,8 @@ author_profile: true
 sidebar: false
 # Header
 header:
-  overlay_image: /assets/img/fiji.jpg
-  image_description: "The South Coast of Viti Levu"
+  overlay_image: /assets/img/IMG_8402.jpg
+  image_description: "Sunset at Colintraive"
   actions:
     - label: "Publications"
       url: /publications/
