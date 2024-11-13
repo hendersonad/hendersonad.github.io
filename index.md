@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Publications"
       url: /publications/
-
+excerpt: " "
 ---
 
 Hello, I'm Alasdair and I am biostatistician and epidemiologist working in the School of Cardiovascular and Metabolic Health at the University of Glasgow with a particular focus on heart failure. 
