@@ -1,8 +1,9 @@
 ---
 permalink: /cv/
 title: "CV"
+layout: single
 excerpt: "My CV"
-toc: false
+author_profile: true
 
 # Header
 header:

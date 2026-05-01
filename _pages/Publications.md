@@ -2,6 +2,8 @@
 permalink: /publications/
 title: "Published work"
 excerpt: "Publications and pre-prints."
+layout: single
+author_profile: true
 toc: false
 # Header
 header:
