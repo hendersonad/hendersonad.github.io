@@ -7,9 +7,6 @@ sidebar: false
 header:
   overlay_image: /assets/img/IMG_8402.jpeg
   image_description: "Sunset at Colintraive"
-  actions:
-    - label: "Publications"
-      url: /publications/
 excerpt: " "
 ---
 
