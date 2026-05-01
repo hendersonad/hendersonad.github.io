@@ -11,8 +11,10 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : null
+
+minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -32,6 +34,7 @@ words_per_minute         : 150
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+type_scale: base
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -116,9 +119,21 @@ author:
   bio              : "Biostatistician in the School of Cardiovascular and Metabolic Health at the University of Glasgow."
   location         : "Glasgow, Scotland"
   email            : "mailto:alasdair.henderson@glasgow.ac.uk"
-  github           : "https://github.com/hendersonad"
-  orcid            : "https://orcid.org/orcid=0000-0002-8903-4906"
-  googlescholar    : "https://scholar.google.com/citations?user=FQrBtfAAAAAJ"
+  github           : hendersonad
+  author:
+  name   : "Alasdair Henderson"
+  avatar : "assets/img/headshot.jpg"
+  bio    : "Biostatistician in the School of Cardiovascular and Metabolic Health at the University of Glasgow."
+  location: "Glasgow, Scotland"
+  email  : "alasdair.henderson@glasgow.ac.uk"
+  github : hendersonad
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=FQrBtfAAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-8903-4906"
   
 
 # Site Footer
@@ -286,9 +301,9 @@ compress_html:
 # Defaults
 defaults:
   # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
