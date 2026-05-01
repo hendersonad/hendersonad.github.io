@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
-#minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -25,10 +25,10 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hendersonad/hendersonad.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/img/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Alasdair Henderson" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -52,7 +52,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : "dark_dimmed" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : # 1 for enabled, 0 for disabled (default)
     input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
@@ -94,18 +94,13 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-  og_image               : 
+  og_image               : assets/img/headshot.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
+social: 
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alasdairhenderson/#biography"
-    - "https://github.com/hendersonad"
-    - "https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en"
-    - "https://bsky.app/profile/hendersonad.bsky.social"
-
 
 # Analytics
 analytics:
@@ -120,20 +115,12 @@ author:
   avatar           : "assets/img/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biostatistician in the School of Cardiovascular and Metabolic Health at the University of Glasgow."
   location         : "Glasgow, Scotland"
-  #email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alasdair.henderson@glasgow.ac.uk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hendersonad"
-    - label: "Google Sholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en"
-    - label: "ORCID"
-      icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-8903-4906"
+  email            : "mailto:alasdair.henderson@glasgow.ac.uk"
+  github           : "https://github.com/hendersonad"
+  orcid            : "https://orcid.org/orcid=0000-0002-8903-4906"
+  googlescholar    : "https://scholar.google.com/citations?user=FQrBtfAAAAAJ"
+  
+
 # Site Footer
 footer:
   links:
