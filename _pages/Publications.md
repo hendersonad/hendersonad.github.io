@@ -11,13 +11,10 @@ header:
   image_description: "A plot of GP consultations over COVID-19 lockdown"
   
 ---
-## Full details available at
-[ORCiD](https://orcid.org/0000-0002-8903-4906)
-
-[Google Scholar](https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en&authuser=1)
-
 ## Selected publications
 ### University of Glasgow
+* **Henderson AD**, Docherty KF, Talebi A, Kondo T, Petrie MC, Claggett BL, et al. A Bayesian analysis of finerenone in heart failure with mildly reduced and preserved ejection fraction: a pre-specified analysis of FINEARTS-HF. 2026. _Eur Heart J Cardiovasc Pharmacother_
+* **Henderson AD**, Soltani S, Bauersachs J, Jhund PS. Can we differentiate between finerenone, eplerenone and spironolactone in HFmrEF/HFpEF through a Bayesian lens? 2026. _Eur J Heart Fail_
 * Solomon SD, McMurray JJV, Vaduganathan M, Claggett B, Jhund PS, Desai AS, **Henderson AD**, Lam CSP, Pitt B, Senni M, et al. Finerenone in heart failure with mildly reduced or preserved ejection fraction. 2024. _New England Journal of Medicine_ 391(16):1475-1485.
 * Jhund PS, Talebi A, **Henderson AD**, Claggett BL, Vaduganathan M, Desai AS, Lam CSP, Pitt B, Senni M, Shah SJ, et al. Mineralocorticoid receptor antagonists in heart failure: an individual patient level meta-analysis. 2024. _The Lancet_ 404(10458):1119-1131.
 * Kondo T, **Henderson AD**, Docherty KF, Jhund PS, Vaduganathan M, Solomon SD, McMurray JJV. Why Have We Not Been Able to Demonstrate Reduced Mortality in Patients With HFmrEF/HFpEF? 2024. _Journal of the American College of Cardiology_.
