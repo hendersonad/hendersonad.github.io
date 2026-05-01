@@ -52,7 +52,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "dark_dimmed" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : # 1 for enabled, 0 for disabled (default)
     input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
@@ -101,7 +101,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair"
+    - "https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alasdairhenderson/#biography"
+    - "https://github.com/hendersonad"
+    - "https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en"
+    - "https://bsky.app/profile/hendersonad.bsky.social"
+
 
 # Analytics
 analytics:
@@ -118,24 +122,30 @@ author:
   location         : "Glasgow, Scotland"
   #email            :
   links:
-    - #label: "Email"
-      #icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "@hendersonad"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:alasdair.henderson@glasgow.ac.uk"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hendersonad"
+    - label: "Google Sholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=FQrBtfAAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-8903-4906"
 # Site Footer
 footer:
   links:
     - label: "University of Glasgow website"
       icon: "fas fa-fw fa-link"
       url: "https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alasdairhenderson/#biography"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hendersonad"
-    - label: "@hendersonad"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/hendersonad.bsky.social"
+    # - label: "@hendersonad"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/hendersonad"
+    # - label: "@hendersonad"
+    #   icon: "fab fa-fw fa-bluesky"
+    #   url: "https://bsky.app/profile/hendersonad.bsky.social"
 
 # Reading Files
 include:
